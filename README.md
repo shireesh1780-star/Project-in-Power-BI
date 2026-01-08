@@ -1,4 +1,5 @@
-Project Overview:
+**Project Overview**
+
 Designed and developed an interactive Power BI dashboard to analyze laptop sales data across multiple dimensions such as state, region, city, brand, processor type, and time period. The objective was to transform raw sales data into meaningful business insights that support data-driven decision-making.
 
 Key Metrics Analyzed:
